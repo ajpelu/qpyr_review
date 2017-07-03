@@ -1,0 +1,53 @@
+---
+title: "notas fisiologia"
+author: "AJ Perez-Luque (`@ajpelu`)"
+date: "` r Sys.Date()`"
+output:  
+  md_document:
+    toc: true
+    variant: markdown_github
+bibliography: ../aux_files/references.bib
+csl: ../aux_files/ecology.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+# Notas Fisiología de plantas 
+From: [@MartinezVilalta2014]
+* Los estomas permiten a las plantas controlar el trasnporte y la pérdida de agua bajo condiciones de sequía. La apertura de los estomas responden a una demanda atmosférica de agua y del suelo. 
+
+* Las plantas se puenden clasificar en dos categorías en función de la capacidad de los estomas para regular el potencial hídrico de la hoja ($ \psi_L $): 
+		* **Especies isohídricas**: ajustan la apertura de los estomas para mantener el $ \psi_L $ relativamente estable aunque cambien las condiciones ambientales
+		* Especies **anisohídricas**: tienen un control menos estricto de la apertura de los estomas, no existiendo un mínimo de $ \psi_L $
+		
+El $ \psi_L $ en especies anisohídricas fluctúa acorde a las condiciones ambientales mientras que el $ \psi_L $ de las isohídricas lo hace mínimamente. 
+
+
+
+
+
+
+
+
+# Revisión estudios Q. pyrenaica 
+
+
+## Fisiología 
+### **Potencial hídrico foliar ** 
+[@MartinezVilalta2014] proponen una aproximación conceptual para el transporte de agua en plantas y realizan una revisión bibliográfica sobre potenciales hídricos bajo condiciones de estrés. Su modelo ofrece los siguientes valores para *Qp* (utilizando valores ofrecidos en el paper de [@RodriguezCalcerrada2007])
+* Potencial hídrico foliar antes del amanecer (*Predawn leaf water potential*; *c* soil water potential): slope: 0.711 
+* Potencial hídrico foliar a mediodía  (*Midday leaf water potential*; *c* minimum leaf water potential): -1.485 
+
+# References 
+
+
+
+
+
+
+
+## References 
