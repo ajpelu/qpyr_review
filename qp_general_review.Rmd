@@ -21,17 +21,12 @@ Para estudios relacionados con Sierra Nevada le añadiremos el símbolo :round_p
 
 
 ## Fisiología 
-### **Potencial hídrico foliar ** 
+
+### Potencial hídrico foliar
+
 [@MartinezVilalta2014] proponen una aproximación conceptual para el transporte de agua en plantas y realizan una revisión bibliográfica sobre potenciales hídricos bajo condiciones de estrés. Su modelo ofrece los siguientes valores para *Qp* (utilizando valores ofrecidos en el paper de [@RodriguezCalcerrada2007])
+
 * Potencial hídrico foliar antes del amanecer (*Predawn leaf water potential*; *c* soil water potential): slope: 0.711 
 * Potencial hídrico foliar a mediodía  (*Midday leaf water potential*; *c* minimum leaf water potential): -1.485 
-
-# References 
-
-
-
-
-
-
 
 ## References 
