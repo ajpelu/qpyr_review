@@ -15,6 +15,8 @@
 
 * Contrasting responses facing peak drought in seedlings of two co-occurring oak species  https://academic.oup.com/forestry/article/83/4/369/542543/Contrasting-responses-facing-peak-drought-in 
 
+* https://doi.org/10.1071/FP02002#sthash.JCQiOOsL.dpuf 
+
 ## CO2 fluxes 
 
 * Seasonal and diel variation in xylem CO2 concentration and sap pH in sub-Mediterranean oak stems https://academic.oup.com/jxb/article/67/9/2817/2877471/Seasonal-and-diel-variation-in-xylem-CO2 
