@@ -19,6 +19,65 @@ Para estudios relacionados con Sierra Nevada le añadiremos el símbolo :round_p
 
 # Revisión estudios Q. pyrenaica 
 
+## Adaptaciones a la sequía
+
+### Evitación de la sequía 
+
+    * Profundidad del sistema radical
+    * Alta proporcion sistema radical / parte aérea 
+    * Hojas gruesas 
+    * Alta rapidez cierre estomas cuando se seca el aire o el suelo 
+
+#### Profundidad sistema radical
+* Raices llegan incluso hasta la capa freática
+* Provocan movimiento de agua:
+
+    * Desde zonas mas profundas hasta mas superficiales (*hydraulic lifting*) 
+    * Removilización entre zonas con diferente grado de humectación dentro del mismo horizonte edáfico 
+
+#### Inversión de biomasa en las raíces
+* Los robles presentan una alta proporción biomasa subterránea:biomasa aérea en ambientes mediterráneos (1:1 a 1:5), lo cual asegura un buen abastecimiento de agua a las hojas durante el verano. 
+
+* Las especies rebrotadoras (con mayor ratio subterraneo:aérea) muestran mejor estatus hídrico tras la actuación pero pueden mostrar problemas de suficiencia hidráulica en años secos. 
+
+#### Cierre estomático 
+* En terminos generales la regulación estomática de los robles se ajusta al de especies típicamente anisohídricas, que son capaces de mantener tasas de transpiración altas pese a una disminución del estatus hídrico general de la planta en terminos de potencial hídrico. En las isohídricas (como por ejemplo los pinos) la limitación de las pérdidas de agua están dirigidas al mantenimiento del estatus hídrico de la planta por encima de unos niveles determinados 
+    
+#### Otras adpatciones foliares
+* Hojas esclerófilas 
+* Baja relación superficie/peso (SLA *specific leaf area*)
+* Cutícula gruesa
+
+Estas adaptaciones permiten a los Quercus reducir la perdida de agua. 
+    
+### Tolerar la sequía 
+
+#### Propiedades del sistema hidráulico: 
+
+  *$\psi_{50} $ define el nivel de tensión en el xilema que da lugar a una pérdida en la capacidad de transporte de agua por embolia en los vasos de un 50 % respecto a la capacidad máxima. Es un parámetro empleado para definir la sensibilidad del sistema hidráulico frente a los fenómenos de cavitación, y por tanto de tolerancia a la sequía.  
+  
+  * Los Quercus se consideran relativamente resistentes a los fenomenos de cavitación dentro de las angiospermas, aunque en ambientes meditarráneos hay que matizarlo, ya que son menos resistentes que otras especies con las que conviven. 
+  
+#### Capacidad para mantener la turgencia y estructura celular en situaciones de déficit hídrico.
+
+* Ajuste osmótico: Acumulación activa de moléculas de bajo peso molecular para mantener la turgencia celular bajo potenciales hídricos bajos. Así las plantas retrasan el marchitamiento de los tejidos en condiciones de sequía. Es un elemento característico de especies de Quercus típicamente mediterráneas, y también observable en otros como *Q pyrenaica*. El ajuste osmótico se concreta a nivel celular en la acumulación de compuestos con actividad osmótica: azúcares (glucosa, fructosa y sacarosa); alcoholes azucarados, amino-ácidos, quercitol (*Q. suber*, *Q. robur*) 
+
+#### Mecanismos de disipación de energía. 
+Se intenta minimizar el daño oxidativo cuando la FS y la transpiración se ven mermadas por la sequía. Para evitar el daño del exceso de energía (se capta más energía de la que se puede utilizar en la asimilación de CO2) se ponen en marchas mecanismos de disipación de la energía, como por ejemplo: 
+
+* Variación en pigmentos. Se disipa energía en forma de calor, acoplandola al ciclo de diferentes pigmentos, como por ejemplo las xantofilas [@GarciaPlazaola2002] (*Concentración de Luteínas*: 4.98 ± 0.20 mmol Lx (Luteín-epoxide) / mol (Chl a+b) [@GarciaPlazaola2002])
+
+* Síntesis de compuestos antioxidantes: compuestos orgánicos volátiles
+
+#### Interacciones de la sequía con otros factores ecológicos
+##### Luz 
+
+* Un ambiente sombreado es el mas favorable para los Quercus a edades tempranas (mayor contenido hidrico en el suelo, mas capacidad fisiológica para hacer frente a la sequía)
+
+
+
+
+
 
 ## Fisiología 
 

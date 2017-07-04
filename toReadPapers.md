@@ -1,6 +1,15 @@
 # To Read Papers 
 
+## Inversión en Biomasa
+
+* Corcuera, L., Camarero, J.J., Sisó, S., Gil-Pelegrín, E. 2006. Radial-growth and wood-anatomical changes in overaged Quercus pyrenaica coppice stands: functional responses in a new Mediterranean landscape. Trees Structure and Function 20: 91–98
+
+
 ## Respuesta a sequía
+
+* Aranda, I. Gil, L., Pardos, J.A. 2004. Osmotic adjustment in two temperate oak species [Quercus pyrenaica Willd and Quercus petraea (Matt.) Liebl] of the Iberian Peninsula in response to drought. Investigación Agraria: Sistemas y Recursos Forestales (actualmente Forest Systems) 13:339-345
+
+* Vilagrosa, A., Chirino, E.,Peguero-Pina, J.J., Barigah, T.S., Cochard, H., Gil- Pelegrín, E. 2012. Xylem cavitation and embolism in plants living in water-limited ecosystems. In: R. Aroca (ed.). Plant Responses to Drought Stress. Pp 63-109. Springer-Verlag Berlin Heidelberg.
 
 * Características funcionales que influyen en la respuesta a la sequía de las especies del género Quercus: variación inter-e intra-específica https://www.revistaecosistemas.net/index.php/ecosistemas/article/viewFile/864/815 
 
