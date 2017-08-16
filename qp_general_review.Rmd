@@ -19,6 +19,16 @@ Para estudios relacionados con Sierra Nevada le añadiremos el símbolo :round_p
 
 # Revisión estudios Q. pyrenaica 
 
+## Fenología de la formación de la madera
+
+En un estudio en Valsain @FernandezUna2017 donde se analizó la fenología de la producción de madera (cambial phenology) en un tratamiento de exclusión de lluvia y otro control, encontró los siguientes resultados:
+
+* Earlywood (EW) se forma entre final de Marzo y principios de Abril. La lignificación ocurre de entre 1 a 8 semanas después
+
+* Latewood (LW) se forman entre Junio y mitad de Julio, siendo la lignificación 2 semanas después. 
+
+* No se encontraron diferencias entre los tratamientos (control y exclusión de lluvía) respecto a la fenología de formación y crecimiento del xilema 
+
 ## Adaptaciones a la sequía
 
 ### Evitación de la sequía 
@@ -74,7 +84,23 @@ Se intenta minimizar el daño oxidativo cuando la FS y la transpiración se ven 
 
 * Un ambiente sombreado es el mas favorable para los Quercus a edades tempranas (mayor contenido hidrico en el suelo, mas capacidad fisiológica para hacer frente a la sequía)
 
+# Efectos de la sequía en Q. pyrenaica
 
+## Cambium 
+
+* En un experimento de exclusión de lluvia (sequía) durante tres años no se observaron diferencias en el número de células del cambium entre el tratamiento control y el de exclusión de lluvia [@FernandezUna2017] 
+
+## Crecimiento de la madera 
+
+* Las tasas de crecimiento de la madera (tanto la temprana *EW* como la tardía *LW*) no fueron diferentes entre tratamientos (sequía y control) [@FernandezUna2017]. No obstante para el tratamiento de exclusión de lluvia se observó una tendencia decreciente en la tasa de crecimiento de LW durante el tiempo que duró el experimento [@FernandezUna2017] ($IDEA$ Efecto acumulativo??)
+
+## Hydraulic features 
+
+* El diámetro de los vasos EW no mostró diferencias entre tratamientos ni entre años [@FernandezUna2017]. $OJO$ otros estudios encontraron aumento o disminución (ver [@FernandezUna2017])
+
+* Varios estudios coinciden en que bajo condiciones de sequía (exclusión de lluvia) el *Q. pyrenaica* sufren una reducción mayor conforme pasan los años sin lluvia en la anchura de los vasos LW. Este hipotético efecto acumulativo de la exclusión de lluvia es más evidente en especies de anillo poroso debido a la alta dependencia en estas especies de los carbohidratos almacenados para formar sus anillos anuales
+
+* Bajo condiciones de exclusión de lluvia, Q. pyrenaica, mantiene el tamaño de los vasos EW, sin embargo reduce la anchura de los vasos LW 
 
 
 
