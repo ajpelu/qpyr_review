@@ -29,6 +29,12 @@ En un estudio en Valsain @FernandezUna2017 donde se analizó la fenología de la
 
 * No se encontraron diferencias entre los tratamientos (control y exclusión de lluvía) respecto a la fenología de formación y crecimiento del xilema 
 
+## Estructura del sistema radical
+
+* El 50 % de la biomasa de las raices de Q. pyrenaica se encuentran en los primeros 10 cm (individuos de areal basal > 50.3 mm^2) [@Silva2003]. La parte mas densa de las raíces se encuentran entre los primeros 60 cm, y luego tiene una raiz principal que le permite al árbol alcanzar agua en las partes mas profundas del suelo. 
+
+
+
 ## Adaptaciones a la sequía
 
 ### Evitación de la sequía 
