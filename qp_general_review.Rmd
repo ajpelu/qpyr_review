@@ -19,6 +19,10 @@ Para estudios relacionados con Sierra Nevada le añadiremos el símbolo :round_p
 
 # Revisión estudios Q. pyrenaica 
 
+## Estación de Crecimiento
+
+* Esta especie tiene una estación de crecimiento corta, desde el final de Mayo hasta mitad de Octubre [@Moreno2011] 
+
 ## Fenología de la formación de la madera
 
 En un estudio en Valsain @FernandezUna2017 donde se analizó la fenología de la producción de madera (cambial phenology) en un tratamiento de exclusión de lluvia y otro control, encontró los siguientes resultados:
@@ -36,6 +40,16 @@ En un estudio en Valsain @FernandezUna2017 donde se analizó la fenología de la
 
 
 ## Adaptaciones a la sequía
+
+## LAI 
+
+* Una estrategia comun para prosperar en condiciones limitantes de agua es la reducción del área de transpiración, así el LAI suele decrecer con el déficit de agua. [@Moreno2011] 
+
+* LAI medio: 2.4 m^2 m^2 para stands en el centro-oeste de España. Este valor es bajo o muy bajo comaparado con los valores de otras especies caducifolias del género Quercus [@Moreno2011] 
+
+## Potencial hídrico 
+
+* Los valores de algunos parámetros hídricos en Q. pyrenaica son mas parecidos a robles perennifolios que a los que presentan robles caducifolios [@Moreno2011] 
 
 ### Evitación de la sequía 
 

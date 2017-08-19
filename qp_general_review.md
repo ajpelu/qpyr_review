@@ -1,6 +1,10 @@
 -   [Revisión estudios Q. pyrenaica](#revision-estudios-q.-pyrenaica)
+    -   [Estación de Crecimiento](#estacion-de-crecimiento)
     -   [Fenología de la formación de la madera](#fenologia-de-la-formacion-de-la-madera)
+    -   [Estructura del sistema radical](#estructura-del-sistema-radical)
     -   [Adaptaciones a la sequía](#adaptaciones-a-la-sequia)
+    -   [LAI](#lai)
+    -   [Potencial hídrico](#potencial-hidrico)
         -   [Evitación de la sequía](#evitacion-de-la-sequia)
         -   [Tolerar la sequía](#tolerar-la-sequia)
 -   [Efectos de la sequía en Q. pyrenaica](#efectos-de-la-sequia-en-q.-pyrenaica)
@@ -16,6 +20,11 @@ Para estudios relacionados con Sierra Nevada le añadiremos el símbolo :round\_
 Revisión estudios Q. pyrenaica
 ==============================
 
+Estación de Crecimiento
+-----------------------
+
+-   Esta especie tiene una estación de crecimiento corta, desde el final de Mayo hasta mitad de Octubre (Moreno et al. 2011)
+
 Fenología de la formación de la madera
 --------------------------------------
 
@@ -27,8 +36,25 @@ En un estudio en Valsain Fernández-de-Uña et al. (2017) donde se analizó la f
 
 -   No se encontraron diferencias entre los tratamientos (control y exclusión de lluvía) respecto a la fenología de formación y crecimiento del xilema
 
+Estructura del sistema radical
+------------------------------
+
+-   El 50 % de la biomasa de las raices de Q. pyrenaica se encuentran en los primeros 10 cm (individuos de areal basal &gt; 50.3 mm^2) (Silva et al. 2003). La parte mas densa de las raíces se encuentran entre los primeros 60 cm, y luego tiene una raiz principal que le permite al árbol alcanzar agua en las partes mas profundas del suelo.
+
 Adaptaciones a la sequía
 ------------------------
+
+LAI
+---
+
+-   Una estrategia comun para prosperar en condiciones limitantes de agua es la reducción del área de transpiración, así el LAI suele decrecer con el déficit de agua. (Moreno et al. 2011)
+
+-   LAI medio: 2.4 m^2 m^2 para stands en el centro-oeste de España. Este valor es bajo o muy bajo comaparado con los valores de otras especies caducifolias del género Quercus (Moreno et al. 2011)
+
+Potencial hídrico
+-----------------
+
+-   Los valores de algunos parámetros hídricos en Q. pyrenaica son mas parecidos a robles perennifolios que a los que presentan robles caducifolios (Moreno et al. 2011)
 
 ### Evitación de la sequía
 
@@ -130,4 +156,8 @@ García-Plazaola, J. I., A. Hernández, E. Errasti, and J. M. Becerril. 2002. Oc
 
 Martínez-Vilalta, J., R. Poyatos, D. Aguadé, J. Retana, and M. Mencuccini. 2014. A new look at water transport regulation in plants. New Phytologist 204:105–115.
 
+Moreno, G., J. F. Gallardo, and M. Á. Vicente. 2011. How mediterranean deciduous trees cope with long summer drought? The case of quercus pyrenaica forests in western spain. Pages 187–201 *in* M. Bredemeier, S. Cohen, D. L. Godbold, E. Lode, V. Pichler, and P. Schleppi, editors. Forest management and the water cycle: An ecosystem-based approach. Springer Netherlands, Dordrecht.
+
 Rodríguez-Calcerrada, J., J. A. Pardos, L. Gil, and I. Aranda. 2007. Summer field performance of quercus petraea (matt.) liebl and quercus pyrenaica willd seedlings, planted in three sites with contrasting canopy cover. New Forests 33:67–80.
+
+Silva, J. S., F. C. Rego, and M. A. Martins-Louçao. 2003. Root distribution of mediterranean woody plants. introducing a new empirical model. Plant Biosystems 137:63–72.
