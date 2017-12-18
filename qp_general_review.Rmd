@@ -16,6 +16,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Para estudios relacionados con Sierra Nevada le añadiremos el símbolo :round_pushpin: 
 
+# Taxonomía 
+
+En su obra *Rariorum aliquot stirpium per Hispanias observatarum historia: libris duobus expressa* el autor francés Clusius (Charles de L'Ecluse) hace referencia al melojo como Robur II presentándo un dibujo de esta especie. 
+
 
 # Revisión estudios Q. pyrenaica 
 

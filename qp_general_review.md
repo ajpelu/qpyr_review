@@ -1,3 +1,4 @@
+-   [Taxonomía](#taxonomia)
 -   [Revisión estudios Q. pyrenaica](#revision-estudios-q.-pyrenaica)
     -   [Estación de Crecimiento](#estacion-de-crecimiento)
     -   [Fenología de la formación de la madera](#fenologia-de-la-formacion-de-la-madera)
@@ -16,6 +17,11 @@
     -   [References](#references)
 
 Para estudios relacionados con Sierra Nevada le añadiremos el símbolo :round\_pushpin:
+
+Taxonomía
+=========
+
+En su obra *Rariorum aliquot stirpium per Hispanias observatarum historia: libris duobus expressa* el autor francés Clusius (Charles de L'Ecluse) hace referencia al melojo como Robur II presentándo un dibujo de esta especie.
 
 Revisión estudios Q. pyrenaica
 ==============================
