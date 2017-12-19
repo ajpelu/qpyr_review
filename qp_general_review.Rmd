@@ -22,6 +22,10 @@ En su obra *Rariorum aliquot stirpium per Hispanias observatarum historia: libri
 
 * Respecto a la taxonomía, [Denk et al. 2017](https://doi.org/10.6084/m9.figshare.5547622.v1) proporcionan una exahustiva revisión de las diferentes clasifiaciones taxonómicas de las especies de Quercus. 
 
+# Xylem structure 
+
+## Wood density 
+* 0.84 (g/cm^3) [@Zanne2009; @Chave2009] Wood density (g/cm^3), oven dry mass/fresh volume
 
 
 # Revisión estudios Q. pyrenaica 

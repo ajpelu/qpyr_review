@@ -1,4 +1,6 @@
 -   [Taxonomía](#taxonomia)
+-   [Xylem structure](#xylem-structure)
+    -   [Wood density](#wood-density)
 -   [Revisión estudios Q. pyrenaica](#revision-estudios-q.-pyrenaica)
     -   [Estación de Crecimiento](#estacion-de-crecimiento)
     -   [Fenología de la formación de la madera](#fenologia-de-la-formacion-de-la-madera)
@@ -24,6 +26,14 @@ Taxonomía
 En su obra *Rariorum aliquot stirpium per Hispanias observatarum historia: libris duobus expressa* el autor francés Clusius (Charles de L'Ecluse) hace referencia al melojo como Robur II presentándo un dibujo de esta especie.
 
 -   Respecto a la taxonomía, [Denk et al. 2017](https://doi.org/10.6084/m9.figshare.5547622.v1) proporcionan una exahustiva revisión de las diferentes clasifiaciones taxonómicas de las especies de Quercus.
+
+Xylem structure
+===============
+
+Wood density
+------------
+
+-   0.84 (g/cm^3) (Chave et al. 2009, Zanne et al. 2009) Wood density (g/cm^3), oven dry mass/fresh volume
 
 Revisión estudios Q. pyrenaica
 ==============================
@@ -158,6 +168,8 @@ Fisiología
 References
 ----------
 
+Chave, J., D. Coomes, S. Jansen, S. L. Lewis, N. G. Swenson, and A. E. Zanne. 2009. Towards a worldwide wood economics spectrum. Ecology Letters 12:351–366.
+
 Fernández-de-Uña, L., S. Rossi, I. Aranda, P. Fonti, B. D. González-González, I. Cañellas, and G. Gea-Izquierdo. 2017. Xylem and leaf functional adjustments to drought in pinus sylvestris and quercus pyrenaica at their elevational boundary. Frontiers in Plant Science 8:1200.
 
 García-Plazaola, J. I., A. Hernández, E. Errasti, and J. M. Becerril. 2002. Occurrence and operation of the lutein epoxide cycle in &lt;emph type=“2”&gt;Quercus&lt;/emph&gt; species. Functional Plant Biology 29:1075–1080.
@@ -169,3 +181,5 @@ Moreno, G., J. F. Gallardo, and M. Á. Vicente. 2011. How mediterranean deciduou
 Rodríguez-Calcerrada, J., J. A. Pardos, L. Gil, and I. Aranda. 2007. Summer field performance of quercus petraea (matt.) liebl and quercus pyrenaica willd seedlings, planted in three sites with contrasting canopy cover. New Forests 33:67–80.
 
 Silva, J. S., F. C. Rego, and M. A. Martins-Louçao. 2003. Root distribution of mediterranean woody plants. introducing a new empirical model. Plant Biosystems 137:63–72.
+
+Zanne, A., G. Lopez-Gonzalez, D. Coomes, J. Ilic, S. Jansen, S. Lewis, R. Miller, N. Swenson, M. Wiemann, and J. Chave. 2009. Data from: Towards a worldwide wood economics spectrum. Dryad Digital Repository.
