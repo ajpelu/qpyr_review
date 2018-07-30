@@ -28,31 +28,26 @@ En su obra *Rariorum aliquot stirpium per Hispanias observatarum historia: libri
 
 * Respecto a la taxonomía, [Denk et al. 2017](https://doi.org/10.6084/m9.figshare.5547622.v1) proporcionan una exahustiva revisión de las diferentes clasifiaciones taxonómicas de las especies de Quercus. 
 
+Evolución de nombres aceptados tal y como aparecen en las distintas obras
 
 ```{r}
 g <- read.csv(here::here("data/names_accepted_history.csv"), header=TRUE)
+kable(g)
 ```
 
-
-* 1838 Webb [@Webb1838] habla de *Q. toza* Bosc.
-
-* 1854 Miguel Colmeiro y Esteban Boutelou [@Colmeiro1854] 
-
-* 1861 Amo y Mora [@Amo1861] *Quercus tozza* Bosc.
 
 Aquí se listan las tablas de sinonimias 
   
 ```{r}
 s <- read.csv(here::here("data/synonimia_history.csv"), header=TRUE)
-
 kable(s)
 
 ```
 
 
-
-
 # Nombres vulgares 
+
+Nombres vulgares recogidos en diferentes obras: 
 
 ```{r}
 d <- read.csv(here::here("data/vulgaris_comunis.csv"), header=TRUE)

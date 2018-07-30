@@ -15,6 +15,7 @@
     -   [Crecimiento de la madera](#crecimiento-de-la-madera)
     -   [Hydraulic features](#hydraulic-features)
     -   [Habitat](#habitat)
+    -   [Distribución](#distribucion)
     -   [Fisiología](#fisiologia)
         -   [Potencial hídrico foliar](#potencial-hidrico-foliar)
     -   [Trait Review](#trait-review)
@@ -181,8 +182,23 @@ Hydraulic features
 Habitat
 -------
 
--   Sitios montuosos y areniscos de toda la Península, ocupando los elevados y espuestos al norte en las provincias meriodionales y a veces forma bosquecillos (<span class="citeproc-not-found" data-reference-id="Colmeiro1854">**???**</span>).
--   (<span class="citeproc-not-found" data-reference-id="Colmeiro1854">**???**</span>) hace referencia de su presencia en Sierra Nevada, diciendo que allí es un árbol de buena altura (-refiriéndose a la elevación a la que puede llegar).
+-   Sitios montuosos y areniscos de toda la Península, ocupando los elevados y espuestos al norte en las provincias meriodionales y a veces forma bosquecillos (Colmeiro and Boutelou 1854).
+-   Sitios montuosos (Amo y Mora 1861)
+
+Distribución
+------------
+
+-   Colmeiro and Boutelou (1854) hace referencia de su presencia en Sierra Nevada, diciendo que allí es un árbol de buena altura (-refiriéndose a la elevación a la que puede llegar).
+
+-   Webb (1838) también refiere la presencia de esta especie en Sierra Nevada.
+
+-   Webb (1838) habla de la presencia de esta especie también en zonas cercanas del Mar Negro.
+
+-   Amo y Mora (1861) cita esta especie en: Norte de Europa, en Guadarrama, en Sierra Nevada, en Cantabria, Pirineos y región septentrional de España. También es frecuente en la zona meridional en la que ocupa la región montana de Estremadura y Portugal.
+
+-   Amo y Mora (1861) habla de que en Sierra Nevada esta especie sube hasta los 6000 pies (~1800 m)
+
+-   Willkomm and Lange (1861) también explicita su presencia en Sierra Nevada entre 3000-6000 pies (~915 m)
 
 Fisiología
 ----------
@@ -218,7 +234,11 @@ brotqp <- brot %>% filter(TaxonID == 4012) %>%
 References
 ----------
 
+Amo y Mora, M. del. 1861. Memoria sobre la distribucion geografica de las familias de las plantas crucíferas, leguminosas, rosáceas, salsoláceas, amentáceas, coníferas y gramíneas de la peninsula ibérica. Memorias de la Real Academia de Ciencias, Madrid:223–463.
+
 Chave, J., D. Coomes, S. Jansen, S. L. Lewis, N. G. Swenson, and A. E. Zanne. 2009. Towards a worldwide wood economics spectrum. Ecology Letters 12:351–366.
+
+Colmeiro, M., and E. Boutelou. 1854. Exámen de las encinas y demas árboles de la península que producen bellotas con la designacion de los que se llaman mestos. Page 16 p. Sevilla.
 
 Fernández-de-Uña, L., S. Rossi, I. Aranda, P. Fonti, B. D. González-González, I. Cañellas, and G. Gea-Izquierdo. 2017. Xylem and leaf functional adjustments to drought in pinus sylvestris and quercus pyrenaica at their elevational boundary. Frontiers in Plant Science 8:1200.
 
@@ -233,5 +253,9 @@ Rodríguez-Calcerrada, J., J. A. Pardos, L. Gil, and I. Aranda. 2007. Summer fie
 Silva, J. S., F. C. Rego, and M. A. Martins-Louçao. 2003. Root distribution of mediterranean woody plants. introducing a new empirical model. Plant Biosystems 137:63–72.
 
 Tavsanoglu, Ç., and J. G. Pausas. 2018. A functional trait database for mediterranean basin plants. Scientific Data 5:180135.
+
+Webb, P. B. 1838. Iter hispaniense, or a synopsis of plants collected in the southern provinces of spain and in portugal, with geographical remarks, and observations on rare and undescribed species. Page 100. London, Béthune; Plon.
+
+Willkomm, Moritz, and J. Lange. 1861. Prodromus florae hispanicae, seu synopsis methodica omnium plantarum in hispania. Page 358. Stuttgart,E. Schweizerbart.
 
 Zanne, A., G. Lopez-Gonzalez, D. Coomes, J. Ilic, S. Jansen, S. Lewis, R. Miller, N. Swenson, M. Wiemann, and J. Chave. 2009. Data from: Towards a worldwide wood economics spectrum. Dryad Digital Repository.

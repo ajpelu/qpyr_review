@@ -48,7 +48,7 @@ Corteza
 Alimenticio
 -----------
 
--   La bellota para alimentar el ganado de cerda (Colmeiro and Boutelou 1854).
+-   La bellota para alimentar el ganado de cerda (Colmeiro and Boutelou 1854)
 
 References
 ----------
