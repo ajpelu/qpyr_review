@@ -1,0 +1,32 @@
+---
+title: "Quercus pyrenaica taxonomia"
+author: "AJ Perez-Luque (`@ajpelu`)"
+date: "` r Sys.Date()`"
+output:  
+  md_document:
+    toc: true
+    variant: markdown_github
+bibliography: ./aux_files/references.bib
+csl: ./aux_files/ecology.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library("here")
+library("dplyr")
+```
+
+
+# Taxonomía 
+
+En su obra *Rariorum aliquot stirpium per Hispanias observatarum historia: libris duobus expressa* el autor francés Clusius (Charles de L'Ecluse) hace referencia al melojo como Robur II presentándo un dibujo de esta especie. 
+
+* Respecto a la taxonomía, [Denk et al. 2017](https://doi.org/10.6084/m9.figshare.5547622.v1) proporcionan una exahustiva revisión de las diferentes clasifiaciones taxonómicas de las especies de Quercus. 
+
+
+
+
+## References 
