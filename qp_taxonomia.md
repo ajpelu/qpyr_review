@@ -44,13 +44,13 @@ g <- read.csv(here::here("data/names_accepted_history.csv"), header=TRUE)
 kable(g)
 ```
 
-|  year| litera               | genus   | specie | author | ref                                                                              |
-|-----:|:---------------------|:--------|:-------|:-------|:---------------------------------------------------------------------------------|
-|  1838| Quercus toza, Bosc.  | Quercus | toza   | Bosc.  | Webb (1838)                                                                      |
-|  1854| Quercus tozza, Bosc. | Quercus | tozza  | Bosc.  | Colmeiro and Boutelou (1854)                                                     |
-|  1861| Quercus tozza, Bosc. | Quercus | tozza  | Bosc.  | Amo y Mora (1861)                                                                |
-|  1861| Quercus tozza, Bosc. | Quercus | tozza  | Bosc.  | Willkomm and Lange (1861)                                                        |
-|  1870| Quercus toza, Bosc.  | Quercus | toza   | Bosc.  | (<span class="citeproc-not-found" data-reference-id="Laguna1870">**???**</span>) |
+|  year| litera               | genus   | specie | author | ref                          |
+|-----:|:---------------------|:--------|:-------|:-------|:-----------------------------|
+|  1838| Quercus toza, Bosc.  | Quercus | toza   | Bosc.  | Webb (1838)                  |
+|  1854| Quercus tozza, Bosc. | Quercus | tozza  | Bosc.  | Colmeiro and Boutelou (1854) |
+|  1861| Quercus tozza, Bosc. | Quercus | tozza  | Bosc.  | Amo y Mora (1861)            |
+|  1861| Quercus tozza, Bosc. | Quercus | tozza  | Bosc.  | Willkomm and Lange (1861)    |
+|  1870| Quercus toza, Bosc.  | Quercus | toza   | Bosc.  | Laguna y Villanueva (1870)   |
 
 Aquí se listan las tablas de sinonimias
 
@@ -90,17 +90,22 @@ d <- read.csv(here::here("data/vulgaris_comunis.csv"), header=TRUE)
 kable(d)
 ```
 
-| nombre                  | sitio            | ref                          |
-|:------------------------|:-----------------|:-----------------------------|
-| Melojo                  | Sierra de Segura | Colmeiro and Boutelou (1854) |
-| Carvalho pardo da Beira | Portugal         | Colmeiro and Boutelou (1854) |
-| Cerquiño                | Galicia          | Colmeiro and Boutelou (1854) |
-| Cerqueiro               | Galicia          | Colmeiro and Boutelou (1854) |
-| Roble                   | Estremadura      | Colmeiro and Boutelou (1854) |
-| Roble                   | Sierra Morena    | Colmeiro and Boutelou (1854) |
-| Roble                   | Granada          | Colmeiro and Boutelou (1854) |
+| nombre                  | sitio               | ref                          |
+|:------------------------|:--------------------|:-----------------------------|
+| Melojo                  | Sierra de Segura    | Colmeiro and Boutelou (1854) |
+| Carvalho pardo da Beira | Portugal            | Colmeiro and Boutelou (1854) |
+| Cerquiño                | Galicia             | Colmeiro and Boutelou (1854) |
+| Cerqueiro               | Galicia             | Colmeiro and Boutelou (1854) |
+| Roble                   | Estremadura         | Colmeiro and Boutelou (1854) |
+| Roble                   | Sierra Morena       | Colmeiro and Boutelou (1854) |
+| Roble                   | Granada             | Colmeiro and Boutelou (1854) |
+| Roble                   | Castell. et Granat. | Willkomm and Lange (1861)    |
+| Cerquiño                | Gallec.             | Willkomm and Lange (1861)    |
+| Cerqueiro               | Gallec.             | Willkomm and Lange (1861)    |
+| Melojo                  | Murcicis            | Willkomm and Lange (1861)    |
+| Rebollo                 |                     | Laguna y Villanueva (1870)   |
 
--   Es común llamar *rebollo* al *Q. toza* joven y *roble* al mismo árbol ya viejo (<span class="citeproc-not-found" data-reference-id="Comision1870">**???**</span>)
+-   Es común llamar *rebollo* al *Q. toza* joven y *roble* al mismo árbol ya viejo (Laguna y Villanueva 1870)
 
 References
 ----------
@@ -108,6 +113,8 @@ References
 Amo y Mora, M. del. 1861. Memoria sobre la distribucion geografica de las familias de las plantas crucíferas, leguminosas, rosáceas, salsoláceas, amentáceas, coníferas y gramíneas de la peninsula ibérica. Memorias de la Real Academia de Ciencias, Madrid:223–463.
 
 Colmeiro, M., and E. Boutelou. 1854. Exámen de las encinas y demas árboles de la península que producen bellotas con la designacion de los que se llaman mestos. Page 16 p. Sevilla.
+
+Laguna y Villanueva, M. 1870. Comisión de la flora forestal español. resumen de los trabajos verificados por la misma durante los años 1867 y 1868. Imprenta del Colegio Nacional de Sordo-mudos y de Ciegos. Madrid.
 
 Webb, P. B. 1838. Iter hispaniense, or a synopsis of plants collected in the southern provinces of spain and in portugal, with geographical remarks, and observations on rare and undescribed species. Page 100. London, Béthune; Plon.
 
