@@ -1,13 +1,33 @@
-nombre,sitio,ref
-Melojo,"Sierra de Segura",@Colmeiro1854
-Carvalho pardo da Beira,"Portugal",@Colmeiro1854
-Cerquiño,"Galicia",@Colmeiro1854
-Cerqueiro,"Galicia",@Colmeiro1854
-Roble,"Estremadura",@Colmeiro1854
-Roble,"Sierra Morena",@Colmeiro1854
-Roble,"Granada",@Colmeiro1854
-Roble,"Castell. et Granat.",@Willkomm1861
-Cerquiño,"Gallec.",@Willkomm1861
-Cerqueiro,"Gallec.",@Willkomm1861
-Melojo,"Murcicis",@Willkomm1861
-Rebollo,"",@Laguna1870
+nombre,sitio,ref,obs
+Melojo,"Sierra de Segura",@Colmeiro1854,
+Carvalho pardo da Beira,"Portugal",@Colmeiro1854,
+Cerquiño,"Galicia",@Colmeiro1854,
+Cerqueiro,"Galicia",@Colmeiro1854,
+Roble,"Estremadura",@Colmeiro1854,
+Roble,"Sierra Morena",@Colmeiro1854,
+Roble,"Granada",@Colmeiro1854,
+Roble,"Castell. et Granat.",@Willkomm1861,
+Cerquiño,"Gallec.",@Willkomm1861,
+Cerqueiro,"Gallec.",@Willkomm1861,
+Melojo,"Murcicis",@Willkomm1861,
+Rebollo,"",@Laguna1870,
+Roble,"Español",@Ruiz2006,
+Roure,"Catalán",@Ruiz2006,
+Roure reboll,"Catalán",@Ruiz2006,
+Carballo negro,"Gallego",@Ruiz2006,
+Cerqueiro,"Gallego",@Ruiz2006,
+Ametza,"Vasco",@Ruiz2006,
+Tartúa,"Vasco",@Ruiz2006,"para la mata"
+Carvalho negral,"Portugués",@Ruiz2006,
+Carvalho pardo da Beira,"Portugués",@Ruiz2006,
+Rebollo,"Centro, Oeste y Sur",@Ruiz2006,"se refiere a la P. Ib"
+Melojo,"Centro y Centro Este",@Ruiz2006,"se refiere a la P. Ib"
+Marojo,"Centro Este",@Ruiz2006,"se refiere a la P. Ib"
+Roble negro,"Asturias",@Ruiz2006,
+Tocorno,"Ávila",@Ruiz2006,
+Sapiego,"Asturias",@Ruiz2006,
+Roble tocio,"Santander",@Ruiz2006,
+Roble corco,"Rioja, Alto Ebro",@Ruiz2006,
+Chêne tauzin,"Francia",@Ruiz2006,
+Chêne brosse,"Francia",@Ruiz2006,
+Iberische Eiche,"Alemania",@Ruiz2006,
