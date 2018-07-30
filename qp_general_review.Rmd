@@ -140,8 +140,25 @@ Se intenta minimizar el daño oxidativo cuando la FS y la transpiración se ven 
 
 ## Habitat
 * Sitios montuosos y areniscos de toda la Península, ocupando los elevados y espuestos al norte en las provincias meriodionales y a veces forma bosquecillos [@Colmeiro1854]. 
+* Sitios montuosos [@Amo1861]
+
+## Distribución 
+
 * @Colmeiro1854 hace referencia de su presencia en Sierra Nevada, diciendo que allí es un árbol de buena altura (-refiriéndose a la elevación a la que puede llegar). 
 
+* @Webb1838 también refiere la presencia de esta especie en Sierra Nevada. 
+
+* @Webb1838 habla de la presencia de esta especie también en zonas cercanas del Mar Negro. 
+
+* @Amo1861 cita esta especie en: Norte de Europa, en Guadarrama, en Sierra Nevada, en Cantabria, Pirineos y región septentrional de España. También es frecuente en la zona meridional en la que ocupa la región montana de Estremadura y Portugal. 
+
+* @Amo1861 habla de que en Sierra Nevada esta especie sube hasta los 6000 pies (~1800 m)
+
+
+* 
+
+
+a 6000 pies de altitud en las montañas de Sierra Nevada.
 
 
 ## Fisiología 

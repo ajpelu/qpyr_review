@@ -31,7 +31,7 @@ Sys.setlocale(category = "LC_ALL", locale = "es_ES.UTF-8")
 * La casca es muy buena [@Colmeiro1854]. Según el DRAE se denomina *casca* a la *Corteza de ciertos árboles, que se usa para curtir las pieles y teñir artes y aparejos de pesca*. Esto se debe a la presencia de taninos en su corteza. 
 
 ## Alimenticio
-* La bellota para alimentar el ganado de cerda [@Colmeiro1854]. 
+* La bellota para alimentar el ganado de cerda [@Colmeiro1854] 
 
 
 ## References 
