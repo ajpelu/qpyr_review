@@ -1,0 +1,37 @@
+---
+title: "Quercus pyrenaica usos"
+author: "AJ Perez-Luque (`@ajpelu`)"
+date: "` r Sys.Date()`"
+output:  
+  md_document:
+    toc: true
+    variant: markdown_github
+bibliography: ./aux_files/references.bib
+csl: ./aux_files/ecology.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library("here")
+library("dplyr")
+library("knitr")
+Sys.setlocale(category = "LC_ALL", locale = "es_ES.UTF-8")
+```
+
+
+# Usos
+
+## Madera
+* La madera es inferior a la de los *Robles legítimos* [@Colmeiro1854]
+
+## Corteza
+* La casca es muy buena [@Colmeiro1854]. Según el DRAE se denomina *casca* a la *Corteza de ciertos árboles, que se usa para curtir las pieles y teñir artes y aparejos de pesca*. Esto se debe a la presencia de taninos en su corteza. 
+
+## Alimenticio
+* La bellota para alimentar el ganado de cerda [@Colmeiro1854]. 
+
+
+## References 
