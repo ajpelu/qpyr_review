@@ -14,9 +14,32 @@
     -   [Cambium](#cambium)
     -   [Crecimiento de la madera](#crecimiento-de-la-madera)
     -   [Hydraulic features](#hydraulic-features)
+    -   [Habitat](#habitat)
     -   [Fisiología](#fisiologia)
         -   [Potencial hídrico foliar](#potencial-hidrico-foliar)
+    -   [Trait Review](#trait-review)
     -   [References](#references)
+
+``` r
+library("here")
+```
+
+    ## here() starts at /Users/ajpelu/Dropbox/phd/phd_repos/qpyr_review
+
+``` r
+library("dplyr")
+```
+
+    ## 
+    ## Attaching package: 'dplyr'
+
+    ## The following objects are masked from 'package:stats':
+    ## 
+    ##     filter, lag
+
+    ## The following objects are masked from 'package:base':
+    ## 
+    ##     intersect, setdiff, setequal, union
 
 Para estudios relacionados con Sierra Nevada le añadiremos el símbolo :round\_pushpin:
 
@@ -155,6 +178,12 @@ Hydraulic features
 
 -   Bajo condiciones de exclusión de lluvia, Q. pyrenaica, mantiene el tamaño de los vasos EW, sin embargo reduce la anchura de los vasos LW
 
+Habitat
+-------
+
+-   Sitios montuosos y areniscos de toda la Península, ocupando los elevados y espuestos al norte en las provincias meriodionales y a veces forma bosquecillos (<span class="citeproc-not-found" data-reference-id="Colmeiro1854">**???**</span>).
+-   (<span class="citeproc-not-found" data-reference-id="Colmeiro1854">**???**</span>) hace referencia de su presencia en Sierra Nevada, diciendo que allí es un árbol de buena altura (-refiriéndose a la elevación a la que puede llegar).
+
 Fisiología
 ----------
 
@@ -164,6 +193,27 @@ Fisiología
 
 -   Potencial hídrico foliar antes del amanecer (*Predawn leaf water potential*; *c* soil water potential): slope: 0.711
 -   Potencial hídrico foliar a mediodía (*Midday leaf water potential*; *c* minimum leaf water potential): -1.485
+
+Trait Review
+------------
+
+Hemos utilizado la base de datos *A functional trait database for Mediterranean Basin plants* (Tavsanoglu and Pausas 2018) (**BROT 2.0**), para consultar los datos de traits para *Q. pyrenaica*. Los datos están en [./data/trait/](./data/trait/)
+
+``` r
+Sys.setlocale(category = "LC_ALL", locale = "es_ES.UTF-8")
+```
+
+    ## [1] "es_ES.UTF-8/es_ES.UTF-8/es_ES.UTF-8/C/es_ES.UTF-8/C"
+
+``` r
+brot <- read.csv(here::here("data/trait", "BROT2_dat.csv"), row.names = 1, stringsAsFactors = F)
+
+brotSource <- read.csv(here::here("data/trait", "BROT2_sou.csv"), stringsAsFactors = F,
+encoding = "UTF-8")
+
+brotqp <- brot %>% filter(TaxonID == 4012) %>% 
+  inner_join(brotSource, by = c("SourceID" = "ID"))
+```
 
 References
 ----------
@@ -181,5 +231,7 @@ Moreno, G., J. F. Gallardo, and M. Á. Vicente. 2011. How mediterranean deciduou
 Rodríguez-Calcerrada, J., J. A. Pardos, L. Gil, and I. Aranda. 2007. Summer field performance of quercus petraea (matt.) liebl and quercus pyrenaica willd seedlings, planted in three sites with contrasting canopy cover. New Forests 33:67–80.
 
 Silva, J. S., F. C. Rego, and M. A. Martins-Louçao. 2003. Root distribution of mediterranean woody plants. introducing a new empirical model. Plant Biosystems 137:63–72.
+
+Tavsanoglu, Ç., and J. G. Pausas. 2018. A functional trait database for mediterranean basin plants. Scientific Data 5:180135.
 
 Zanne, A., G. Lopez-Gonzalez, D. Coomes, J. Ilic, S. Jansen, S. Lewis, R. Miller, N. Swenson, M. Wiemann, and J. Chave. 2009. Data from: Towards a worldwide wood economics spectrum. Dryad Digital Repository.
